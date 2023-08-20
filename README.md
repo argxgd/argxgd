@@ -47,9 +47,3 @@
 ###
 
 <img align="right" height="150" src="https://media4.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47rvf77x32p1ckqr33a4ncsmk8fq61vi1mma6hlg9l&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/argxgd/argxgd/output/snake.svg" alt="Snake animation" />
-
-###
