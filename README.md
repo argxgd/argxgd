@@ -1,13 +1,10 @@
-<h2 align="left">Hello! My name is Abhishek Gupta and I'm an aspiring data analyst from India</h2>
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47rvf77x32p1ckqr33a4ncsmk8fq61vi1mma6hlg9l&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+</div>
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=argxgd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=argxgd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h2 align="left">Hello! My name is Abhishek Gupta and I'm an aspiring data analyst from India</h2>
 
 ###
 
@@ -45,5 +42,12 @@
 </div>
 
 ###
+<h3 align="left">🔥   My Stats :</h3>
 
-<img align="right" height="150" src="https://media4.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47rvf77x32p1ckqr33a4ncsmk8fq61vi1mma6hlg9l&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=argxgd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
